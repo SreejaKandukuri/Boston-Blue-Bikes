@@ -1,2 +1,3 @@
 # Boston-Blue-Bikes
 Analyzed Boston's blue bikes rider data to uncover trends in ride duration, usage patterns, and opportunities for optimizing sustainable urban mobility.
+This project delves into Boston's bike-share data for October, analyzing ride durations, user behavior, and key factors driving bike usage. Advanced models like XGBoost were employed to predict trip durations, revealing distance and trip duration as primary predictors. The code is designed to be adaptable for any month, enabling a deeper understanding of user behavior and trends over time. These insights can guide strategies to improve bike-share services and encourage sustainable urban mobility.
